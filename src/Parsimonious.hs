@@ -5,6 +5,7 @@
 module Parsimonious
   ( Reason (..),
     Result,
+    Parser (..),
     ParseError (..),
     choose,
     parse,

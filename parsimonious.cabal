@@ -27,6 +27,7 @@ library
   exposed-modules:
       Lib
       Parsimonious
+      Parsimonious.Text
   other-modules:
       Paths_parsimonious
   autogen-modules:
